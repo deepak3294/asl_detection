@@ -1,3 +1,5 @@
+94% accuracy
+
 -To download the dataset - 
 click on this link to jump onto the dataset - https://www.kaggle.com/datasets/deepakladwal/real-time-american-sign-language-asl-detection
 
